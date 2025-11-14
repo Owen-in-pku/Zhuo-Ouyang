@@ -24,11 +24,11 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a fourth year undergraduate student at College of Engineering, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>, where I am fortunate to be advised by
-    <a href="https://yisenwang.github.io/" target="_blank">Prof. Yisen Wang </a> on <strong>self-supervised learning</strong> and Prof. 
-    <a href="https://pengcheng-you.github.io/desires-lab/" target="_blank">Pengcheng You</a> on <strong>reinforcement Learning</strong>. 
+    <a href="https://yisenwang.github.io/" target="_blank">Prof. Yisen Wang </a> in <strong>self-supervised learning</strong> and Prof. 
+    <a href="https://pengcheng-you.github.io/desires-lab/" target="_blank">Pengcheng You</a> in <strong>reinforcement Learning</strong>. 
     I expect to receive my bachelor's degree in Robotics Engineering in June 2026.
     I am currently a visiting student at Electrical and Computer Engineering (ECE), Johns Hopkins University, advised by Prof. <a href="https://mallada.ece.jhu.edu/" target="_blank">Enrique Mallada</a> 
-    on <strong>data-driven learning in nonlinear systems</strong>.
+    in <strong>data-driven learning in nonlinear systems</strong>.
   <p>
     My research interest covers <strong>self-supervised learning</strong>, <strong>reinforcement learning</strong>, and <strong>data driven learning method in Hamiltonian systems</strong>.
     I am currently interested in generalizing <strong>transfer learning paradigm</strong> to safe reinforcement learning settings, utilizing 
